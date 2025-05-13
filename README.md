@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a cool app. Let's hope it works!!!
+- 🔭 I’m currently working on an advanced deep learning architecture and I am excited to use it on a DGX A100!!!
